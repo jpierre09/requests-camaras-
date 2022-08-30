@@ -1,0 +1,10 @@
+{
+    "Axis":[
+                {"ip":"10.32.38.88", "ruta":"camara_visible_viva_occidente/", "ultima":"visible_viva_envigado_hacia_itagui"},
+                {"ip":"10.32.38.87", "ruta":"camara_visible_viva_oriente/", "ultima":"visible_viva_envigado"},
+                {"ip":"10.32.38.73", "ruta":"camara_incendio_cerro_tres_cruces/", "ultima":"incendio_cerro_tres_cruces"},
+                {"ip":"10.32.38.48", "ruta":"camara_nivel_eafit/", "ultima":"nivel_eafit"}
+
+    ]
+}
+

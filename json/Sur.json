@@ -1,0 +1,34 @@
+{
+    "Axis":[
+        {"ip":"10.32.38.1", "ruta":"camara_deslizamiento_la_raya_2/", "ultima":"deslizamiento_la_raya_2"},
+        {"ip":"10.32.38.2", "ruta":"camara_deslizamiento_la_raya/", "ultima":"deslizamiento_la_raya"},
+        {"ip":"10.32.38.3", "ruta":"camara_color_pis/", "ultima":"color_pis"},
+        {"ip":"10.32.38.16", "ruta":"camara_nivel_quebrada_santa_rita/", "ultima":"nivel_quebrada_santa_rita"},
+        {"ip":"10.32.38.21", "ruta":"camara_deslizamiento_rodeo_alto/", "ultima":"deslizamiento_rodeo_alto"},
+        {"ip":"10.32.38.22", "ruta":"camara_deslizamiento_edificio_rodeo_alto/", "ultima":"deslizamiento_edificio_rodeo_alto"},
+        {"ip":"10.32.38.23", "ruta":"camara_deslizamiento_san_antonio_montanita/", "ultima":"deslizamiento_san_antonio_montanita"},
+        {"ip":"10.32.38.24", "ruta":"camara_deslizamiento_pan_de_azucar/", "ultima":"deslizamiento_pan_de_azucar"},
+        {"ip":"10.32.38.25", "ruta":"camara_incendio_la_estrella/", "ultima":"incendio_la_estrella"},
+        {"ip":"10.32.38.26", "ruta":"camara_capa_limite_la_estrella/", "ultima":"capa_limite_la_estrella"},
+        {"ip":"10.32.38.52", "ruta":"camara_color_ancon_sur/", "ultima":"ancon_sur"},
+        {"ip":"10.32.38.67", "ruta":"camara_nivel_la_raya/", "ultima":"nivel_la_raya"},
+        {"ip":"10.32.38.72", "ruta":"camara_monitoreo_robo_metro_estrella/", "ultima":"monitoreo_metro_estrella"},
+        {"ip":"10.32.38.78", "ruta":"camara_visible_aeroparque/", "ultima":"visible_aeroparque"},
+	    {"ip":"10.32.38.80", "ruta":"camara_deslizamiento_cabuyal_sabaneta/", "ultima":"deslizamiento_cabuyal_sabaneta"},
+        {"ip":"10.32.38.81", "ruta":"camara_incendio_alcaldia_la_estrella/", "ultima":"incendio_alcaldia_la_estrella"},
+        {"ip":"10.32.38.82", "ruta":"camara_incendio_parque_3_aguas_noroccidente/", "ultima":"incendio_parque_3_aguas_noroccidente"},
+        {"ip":"10.32.38.83", "ruta":"camara_incendio_parque_3_aguas_oriente/", "ultima":"incendio_parque_3_aguas_oriente"},
+        {"ip":"10.32.38.85", "ruta":"camara_deslizamiento_andalucia/", "ultima":"deslizamiento_andalucia"},
+        {"ip":"10.32.38.90", "ruta":"camara_bomberos_san_antonio/", "ultima":"bomberos_san_antonio"},
+        {"ip":"10.32.38.91", "ruta":"camara_bomberos_san_antonio_2/", "ultima":"bomberos_san_antonio_2"},
+        {"ip":"10.32.38.92", "ruta":"camara_bomberos_sabaneta/", "ultima":"bomberos_sabaneta"},
+        {"ip":"10.32.38.97", "ruta":"camara_deslizamiento_ajizal_itagui/", "ultima":"deslizamiento_ajizal_itagui"},
+        {"ip":"10.32.38.104", "ruta":"camara_deslizamiento_tierra_amarilla/", "ultima":"deslizamiento_tierra_amarilla"},
+        {"ip":"10.32.38.111", "ruta":"cam99/", "ultima":"99_SAN_NICOLAS_nororiente"},
+        {"ip":"10.32.38.110", "ruta":"cam96/", "ultima":"96_RADAR"},
+        {"ip":"10.32.38.113", "ruta":"cam97/", "ultima":"97_RADAR"},
+        {"ip":"10.32.38.37", "ruta":"camara_deslizamiento_las_playas/", "ultima":"deslizamiento_las_playas"},
+        {"ip":"10.32.38.112", "ruta":"cam98/", "ultima":"98_SAN_NICOLAS_suroriente"}
+    ]
+}
+

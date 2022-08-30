@@ -1,0 +1,6 @@
+{
+    "acti":[
+     	{"ip":"10.32.38.33", "ruta":"camara_visible_itagui/", "ultima":"visible_itagui"},
+        {"ip":"10.32.38.53", "ruta":"camara_visible_eafit/", "ultima":"visible_eafit"}
+    ]
+}

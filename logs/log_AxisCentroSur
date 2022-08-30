@@ -1,0 +1,5 @@
+200
+Traceback (most recent call last):
+  File "/home/produccion/script/camaras/AxisCentroSur.py", line 45, in <module>
+    with open(basepath+ax['ruta']+folder+'/'+filename, 'wb') as out:
+PermissionError: [Errno 13] Permission denied: '/var/ftp/upload/camara_visible_viva_occidente/2022-01-13/image22-01-13_23-30-01.jpg'

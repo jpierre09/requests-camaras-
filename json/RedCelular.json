@@ -1,0 +1,72 @@
+[
+    {
+        "ruta": "camara_ituango_descarga",
+        "ultima": "ituango_descarga",
+        "log": "/var/ftp/upload/camara_ituango_descarga/image22-08-30_14-48-27-73.jpg"
+    },
+    {
+        "ruta": "camara_ituango_embalse",
+        "ultima": "ituango_embalse",
+        "log": "/var/ftp/upload/camara_ituango_embalse/image22-08-30_13-49-15-59.jpg"
+    },
+    {
+        "ruta": "camara_ituango_sub_estacion_500",
+        "ultima": "ituango_sub_estacion_500",
+        "log": "/var/ftp/upload/camara_deslizamiento_biociclo_la_zorrita/image22-07-27_14-38-02-66.jpg"
+    },
+    {
+        "ruta": "camara_deslizamiento_palmitas",
+        "ultima": "deslizamiento_palmitas",
+        "log": "/var/ftp/upload/camara_deslizamiento_palmitas/2022-08-30/image22-08-30_13-50-51-69.jpg"
+    },
+    {
+        "ruta": "camara_deslizamiento_las_salinas_caldas",
+        "ultima": "deslizamiento_las_salinas_caldas",
+        "log": "/var/ftp/upload/camara_deslizamiento_las_salinas_caldas/2022-08-30/image22-08-30_13-49-34-19.jpg"
+    },
+    {
+        "ruta": "camara_deslizamiento_jerico",
+        "ultima": "deslizamiento_jerico",
+        "log": "/var/ftp/upload/camara_deslizamiento_jerico/image22-08-30_14-04-11-59.jpg"
+    },
+    {
+        "ruta": "camara_deslizamiento_jerico_2",
+        "ultima": "deslizamiento_jerico_2",
+        "log": "/var/ftp/upload/camara_deslizamiento_jerico_2/image22-08-30_13-58-01-81.jpg"
+    },
+    {
+        "ruta": "camara_deslizamiento_jerico3",
+        "ultima": "deslizamiento_jerico_3",
+        "log": "/var/ftp/upload/camara_deslizamiento_jerico3/image22-08-30_13-49-12-30.jpg"
+    },
+    {
+        "ruta": "camara_deslizamiento_la-valeria",
+        "ultima": "deslizamiento_la-valeria",
+        "log": "/var/ftp/upload/camara_deslizamiento_la-valeria/2022-08-30/image22-08-30_13-50-00-62.jpg"
+    },
+    {
+        "ruta": "camara_deslizamiento_la_primavera",
+        "ultima": "deslizamiento_la_primavera",
+        "log": "/var/ftp/upload/camara_deslizamiento_la_primavera/2022-08-26/image22-08-26_10-36-51-75_00008.jpg"
+    },
+    {
+        "ruta": "camara_deslizamiento_biociclo_la_zorrita",
+        "ultima": "deslizamiento_el_salado",
+        "log": "/var/ftp/upload/camara_deslizamiento_biociclo_la_zorrita/image22-08-30_13-57-24-69.jpg"
+    },
+    {
+        "ruta": "camara_nivel_primavera",
+        "ultima": "nivel_primavera",
+        "log": "/var/ftp/upload/camara_nivel_primavera/2022-08-27/image22-08-27_09-43-06-38_00014.jpg"
+    },
+    {
+        "ruta": "camara_nivel_plebicito",
+        "ultima": "nivel_plebicito",
+        "log": "/var/ftp/upload/camara_nivel_plebicito/2022-08-30/image22-08-30_13-50-46-67_00077.jpg"
+    },
+    {
+        "ruta": "camara_drenaje_urbano_monterrey",
+        "ultima": "drenaje_urbano_monterrey",
+        "log": "/var/ftp/upload/camara_drenaje_urbano_monterrey/2022-08-30/image22-08-30_13-48-46-93.jpg"
+    }
+]

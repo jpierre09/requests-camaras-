@@ -1,0 +1,15 @@
+{
+    "Termicas":[
+        {"link":"http://10.32.38.31/graphics/livevideo/stream/live.jpg.php", "ruta":"camara_termica_itagui/", "ultima":"itagui"},
+        {"link":"http://10.32.38.41/graphics/livevideo/stream/live.jpg.php", "ruta":"camara_termica_ciudadela_la_vida_copa/", "ultima":"ciudadela_la_vida"},
+        {"link":"http://10.32.38.51/graphics/livevideo/stream/live.jpg.php", "ruta":"camara_termica_eafit/", "ultima":"eafit"},
+        {"link":"http://10.32.38.63/graphics/livevideo/stream/live.jpg.php", "ruta":"camara_termica_tres_cruces/", "ultima":"tres_cruces"},
+        {"link":"http://10.32.38.66/graphics/livevideo/stream/stream1.jpg.php", "ruta":"camara_termica_jorge_eliecer_gaitan_bello/", "ultima":"JEG_bello"},
+        {"link":"http://50.32.32.6/graphics/livevideo/stream/stream1.jpg.php", "ruta":"camara_termica_prueba_torre/", "ultima":"prueba_torre"},
+        {"link":"http://10.32.38.76/graphics/livevideo/stream/live.jpg.php", "ruta":"camara_termica_viva_oriente/", "ultima":"viva_envigado"},
+        {"link":"http://10.32.38.77/graphics/livevideo/stream/live.jpg.php", "ruta":"camara_termica_viva_envigado_hacia_itagui/", "ultima":"viva_envigado_hacia_itagui"},
+        {"link":"http://10.32.38.79/graphics/livevideo/stream/live.jpg.php", "ruta":"camara_termica_aeroparque/", "ultima":"aeroparque"},
+        {"link":"http://10.32.38.102/graphics/livevideo/stream/live.jpg.php", "ruta":"camara_termica_parque_3_aguas/", "ultima":"parque_tres_aguas"},
+        {"link":"http://10.32.38.117/graphics/livevideo/stream/live.jpg.php", "ruta":"camara_termica_colegio_lusitania/", "ultima":"colegio_lusitania"}
+    ]
+}

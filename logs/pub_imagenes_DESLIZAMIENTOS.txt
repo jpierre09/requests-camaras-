@@ -1,0 +1,5 @@
+Wed 27 Jul 2022 02:17:01 PM -05
+/home/produccion/script/camaras/redcelular
+cp: -r not specified; omitting directory '/var/ftp/upload/camara_deslizamiento_palmitas/2022-07-21'
+cp: -r not specified; omitting directory '/var/ftp/upload/camara_deslizamiento_las_salinas_caldas/'
+cp: -r not specified; omitting directory '/var/ftp/upload/camara_deslizamiento_la-valeria/2022-07-26'

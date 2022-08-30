@@ -1,0 +1,10 @@
+Wed 27 Jul 2022 02:49:01 PM -05
+
+La fecha actual es: 2022-07-27
+
+ls: cannot access '/var/ftp/upload/camara_nivel_primavera/2022-07-27': No such file or directory
+ls: cannot access '/var/ftp/upload/camara_nivel_plebicito/2022-07-27': No such file or directory
+ls: cannot access '/var/ftp/upload/camara_drenaje_urbano_monterrey/2022-07-27': No such file or directory
+cp: cannot stat '/var/ftp/upload/camara_nivel_primavera/2022-07-27/': No such file or directory
+cp: cannot stat '/var/ftp/upload/camara_nivel_plebicito/2022-07-27/': No such file or directory
+cp: cannot stat '/var/ftp/upload/camara_drenaje_urbano_monterrey/2022-07-27/': No such file or directory

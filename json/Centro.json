@@ -1,0 +1,28 @@
+{
+    "Axis":[
+      {"ip":"10.32.38.22", "ruta":"camara_deslizamiento_edificio_rodeo_alto/", "ultima":"deslizamiento_edificio_rodeo_alto"},
+      {"ip":"10.32.38.21", "ruta":"camara_deslizamiento_rodeo_alto/", "ultima":"deslizamiento_rodeo_alto"},
+      {"ip":"10.32.38.107", "ruta":"camara_estructural_animalx-palmas2/", "ultima":"estructural_animalx-palmas2"},
+      {"ip":"10.32.38.103", "ruta":"camara_estructural_animalx-palmas/", "ultima":"estructural_animalx-palmas"},
+      {"ip":"10.32.38.114", "ruta":"camara_deslizamiento_villatina/", "ultima":"deslizamiento_villatina"},
+      {"ip":"10.32.38.94", "ruta":"camara_nivel_picacha_aguas_frias/", "ultima":"nivel_picacha_aguas_frias"},
+      {"ip":"10.32.38.35", "ruta":"camara_deprimido_bulerias/", "ultima":"dep_bulerias"},
+      {"ip":"10.32.38.49", "ruta":"camara_nivel_iguana/", "ultima":"nivel_iguana"},
+      {"ip":"10.32.38.28", "ruta":"camara_deprimido_1/", "ultima":"puente_musicos"},
+      {"ip":"10.32.38.34", "ruta":"camara_deprimido_terminal_norte/", "ultima":"terminal_norte"},
+      {"ip":"10.32.38.32", "ruta":"camara_deprimido_suramericana/", "ultima":"dep_suramericana"},
+      {"ip":"10.32.38.29", "ruta":"camara_deprimido_sanjuan/", "ultima":"dep_san_juan"},
+      {"ip":"10.32.38.36", "ruta":"camara_color_33/", "ultima":"color_33"},
+      {"ip":"10.32.38.27", "ruta":"camara_nivel_099/", "ultima":"099_NIVEL"},
+      {"ip":"50.32.32.7", "ruta":"cam_18x_torresiata/", "ultima":"visible_prueba_torre"},
+      {"ip":"50.32.32.2", "ruta":"cam89/", "ultima":"89_TORRESIATA_occidente"},
+      {"ip":"50.32.32.3", "ruta":"cam81/", "ultima":"81_TORRESIATA_oriente"},
+      {"ip":"50.32.32.4", "ruta":"cam88/", "ultima":"88_TORRESIATA_noroccidente"},
+      {"ip":"50.32.32.5", "ruta":"cam82/", "ultima":"82_TORRESIATA_suroriente"},
+      {"ip":"50.32.32.9", "ruta":"cam86/", "ultima":"86_TORRESIATA_nororiente"},
+      {"ip":"10.32.38.99", "ruta":"camara_conteo_vehicular_velodromo/", "ultima":"ConteoVehicular_Velodromo"},
+      {"ip":"10.32.38.101", "ruta":"camara_deslizamiento_el_pacifico/", "ultima":"deslizamiento_el_pacifico"},
+      {"ip":"10.32.38.17", "ruta":"camara_nivel_quebrada_santa_lucia/", "ultima":"nivel_quebrada_santa_lucia"},
+      {"ip":"10.32.38.118", "ruta":"camara_visible_colegio_lusitania/ ", "ultima":"visible_colegio_lusitania"}
+    ]
+}

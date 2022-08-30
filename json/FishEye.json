@@ -1,0 +1,16 @@
+{
+    "FishEye":[
+        {"ip":"10.32.38.4", "ruta":"fisheye_estrella_canadiense/", "ultima":"FishEye_La_Estrella"},
+        {"ip":"10.32.38.5", "ruta":"fisheye_itagui_concejo/", "ultima":"FishEye_Itagui"},
+        {"ip":"10.32.38.6", "ruta":"fisheye_sabaneta_ie_rafael_j_mejia/", "ultima":"FishEye_Sabaneta"},
+        {"ip":"10.32.38.7", "ruta":"fisheye_estrella_alcaldia/", "ultima":"FishEye_Alcaldia_La_Estrella"},
+        {"ip":"10.32.38.8", "ruta":"fisheye_medellin_amva/", "ultima":"FishEye_AMVA"},
+        {"ip":"10.32.38.9", "ruta":"fisheye_medellin_aula_ambiental/", "ultima":"FishEye_Aula_Ambiental"},
+        {"ip":"10.32.38.10", "ruta":"fisheye_bello_ie_jorge_eliecer_gaitan/", "ultima":"FishEye_Bello"},
+        {"ip":"10.32.38.11", "ruta":"fisheye_medellin_aeroparque/", "ultima":"FishEye_Aeroparque"},
+        {"ip":"10.32.38.12", "ruta":"fisheye_girardota_epm/", "ultima":"FishEye_Girardota"},
+        {"ip":"10.32.38.13", "ruta":"fisheye_copacabana_ciudadela_la_vida/", "ultima":"FishEye_Copacabana"},
+        {"ip":"10.32.38.14", "ruta":"fisheye_medellin_eafit/", "ultima":"FishEye_EAFIT"},
+        {"ip":"50.32.32.8", "ruta":"fisheye_medellin_siata/", "ultima":"FishEye_SIATA"}
+    ]
+}

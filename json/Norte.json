@@ -1,0 +1,37 @@
+{
+    "Axis":[
+		{"ip":"10.32.38.98", "ruta":"camara_deslizamiento_hatillo/", "ultima":"deslizamiento_hatillo"},
+		{"ip":"10.32.38.95", "ruta":"camara_nivel_el_hatillo/", "ultima":"nivel_hatillo"},
+		{"ip":"10.32.38.70", "ruta":"camara_incendio_parque_de_las_aguas_norte/", "ultima":"incendio_parque_de_las_aguas_norte"},
+		{"ip":"10.32.38.69", "ruta":"camara_incendio_parque_de_las_aguas_sur/", "ultima":"incendio_parque_de_las_aguas_sur"},
+		{"ip":"10.32.38.42", "ruta":"camara_nivel_puente_fundadores/", "ultima":"nivel_puente_fundadores"},
+		{"ip":"10.32.38.116", "ruta":"camara_deslizamiento_copacabana_el_vivero/", "ultima":"deslizamiento_copacabana_el_vivero"},
+	    {"ip":"10.32.38.43", "ruta":"camara_visible_ciudadela_la_vida_copa/", "ultima":"visible_ciudadela_la_vida"},
+		{"ip":"10.32.38.44", "ruta":"camara_incendio_copacabana/", "ultima":"incendio_copacabana"},
+		{"ip":"10.32.38.68", "ruta":"camara_incendio_ciudadela_la_vida_copacabana/", "ultima":"incendio_ciudadela_la_vida_copacabana"},
+		{"ip":"10.32.38.62", "ruta":"camara_nivel_la_asuncion/", "ultima":"nivel_la_asuncion"},
+		{"ip":"10.32.38.86", "ruta":"camara_deslizamiento_potrerito_2/", "ultima":"deslizamiento_potrerito_2"},
+		{"ip":"10.32.38.58", "ruta":"camara_deslizamiento_potrerito_1/", "ultima":"deslizamiento_potrerito_1"},
+		{"ip":"10.32.38.65", "ruta":"camara_visible_jorge_eliecer_gaitan_bello/", "ultima":"visible_JEG_bello"},
+		{"ip":"10.32.38.105", "ruta":"camara_socavacion_metro_acevedo/", "ultima":"socavacion_metro_acevedo"},
+		{"ip":"10.32.38.106", "ruta":"camara_deslizamiento_metro_acevedo/", "ultima":"deslizamiento_metro_acevedo"},
+		{"ip":"10.32.38.71", "ruta":"camara_incendio_megacolegio_paris/", "ultima":"incendio_megacolegio_paris"},
+        {"ip":"10.32.38.120", "ruta":"camara_conteo_vehicular_girardota/", "ultima":"ConteoVehicular_girardota"},
+		{"ip":"10.32.38.100", "ruta":"camara_nivel_argos_med_bog/", "ultima":"nivel_argos"},
+		{"ip":"10.32.38.108", "ruta":"camara_nivel_la_loca_el_cafetal/", "ultima":"nivel_la_loca_el_cafetal"},
+		{"ip":"10.32.38.115", "ruta":"camara_deslizamiento_bermejala/", "ultima":"deslizamiento_bermejala"},
+        {"ip":"10.32.38.45", "ruta":"camara_deprimido_feria_ganado/", "ultima":"dep_feria_ganado"},
+		{"ip":"10.32.38.47", "ruta":"camara_capa_limite_santo_domingo/", "ultima":"capa_limite_santo_domingo"},
+	    {"ip":"10.32.38.46", "ruta":"camara_deprimido_san_juan_con_80/", "ultima":"dep_san_juan_con_80"},
+		{"ip":"", "ruta":"camara_conteo_vehicular_girardota/", "ultima":"conteo_vehicular_girardota"},
+		{"ip":"10.32.38.119", "ruta":"camara_nivel_el_indio/", "ultima":"nivel_el_indio"},
+		{"ip":"10.32.38.74", "ruta":"camara_nivel_quebrada_la_madera/", "ultima":"nivel_quebrada_la_madera"},
+		{"ip":"10.32.38.121", "ruta":"camara_nivel_metro_caribe/", "ultima":"nivel_metro_caribe"},
+		{"ip":"10.32.38.123", "ruta":"camara_deslizamiento_la_gabriela/", "ultima":"deslizamineto_la_gabriela"},
+		{"ip":"10.32.38.18", "ruta":"camara_drenaje_urbano_naranjal/", "ultima":"drenaje_urbano_naranjal"},
+		{"ip":"10.32.38.124", "ruta":"camara_incendio_girardota_sur/", "ultima":"incendio_girardota_sur"},
+		{"ip":"10.32.38.125", "ruta":"camara_incendio_girardota_norte/", "ultima":"incendio_girardota_norte"}
+
+    ]
+}
+
